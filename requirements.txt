@@ -1,8 +1,4 @@
 Flask==0.12.2
-
-
 numpy==1.13.3
-
-scikit-learn==0.13.3
-matplotlib>=1.4.3
-pandas==0.25.3
+scikit-learn==0.19.1
+pandas==0.20.3
